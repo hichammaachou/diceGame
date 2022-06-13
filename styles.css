@@ -1,0 +1,31 @@
+body {
+    margin: 0;
+    background-color: #313552;
+}
+.announce{
+    text-align: center;
+    font-size: 120px;
+    color: #2EB086;
+    font-family: 'Merriweather';
+    margin-bottom: 25px;
+}
+p{
+    font-family: 'Ubuntu';
+    color: #2EB086;
+    font-size: 20px;
+}
+.game-container{
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+}
+.player1{
+    text-align: center;
+}
+.player2{
+    text-align: center;
+}
+img{
+    width: auto;
+    height: 220px;
+}
